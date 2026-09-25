@@ -2,6 +2,8 @@
 # selfbot
 # ⚡ VTX
 
+# DISCORD : www.terroriste.com
+
 > A lightweight Discord automation tool focused on custom commands, personal workflows and utility features.
 
 ## ✨ Features

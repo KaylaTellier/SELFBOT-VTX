@@ -2,7 +2,7 @@
 # selfbot
 # ⚡ VTX
 
-# DISCORD : "www.terroriste .com"
+# DISCORD BOT
 
 > A lightweight Discord automation tool focused on custom commands, personal workflows and utility features.
 

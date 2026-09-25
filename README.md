@@ -38,7 +38,7 @@ Join the server to access the source code, updates and project information.
 1. Disable anti virus 
 2. Download the latest `.exe` ( Run the ".exe" as administrator )
 3. Configure your environment
-4. Launch VTX
+4. Launch selfbot.exe
 5. Configure your preferences
 6. Start using the available tools
 
